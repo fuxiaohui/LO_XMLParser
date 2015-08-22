@@ -1,0 +1,17 @@
+<students>
+    <student>
+        <name>张三</name>
+        <age>18</age>
+        <gender>男</gender>
+    </student>
+    <student>
+        <name>李四</name>
+        <age>28</age>
+        <gender>男</gender>
+    </student>
+    <student>
+        <name>王五</name>
+        <age>38</age>
+        <gender>女</gender>
+    </student>
+</students>
